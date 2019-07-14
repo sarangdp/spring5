@@ -1,0 +1,5 @@
+guru:
+  jms:
+      quserName: JMS Queue
+      qpassword: somePassword
+      qurl: SomeUrl

@@ -1,0 +1,5 @@
+guru:
+  jms:
+    quserName: JMS Queue***in spanish*****
+    qpassword: somePassword
+    qurl: SomeUrl
